@@ -5,6 +5,8 @@
  */
 package Vista;
 
+import javax.swing.JTextField;
+
 /**
  *
  * @author Cristian
@@ -266,6 +268,11 @@ public class JfrmRegistro extends javax.swing.JFrame {
         jScrollPane1.setViewportView(tablaCliente);
 
         btnGuardarCliente.setText("Guardar");
+        btnGuardarCliente.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnGuardarClienteActionPerformed(evt);
+            }
+        });
 
         btnBuscar.setText("Buscar");
 
@@ -698,6 +705,11 @@ public class JfrmRegistro extends javax.swing.JFrame {
         jScrollPane3.setViewportView(tablaProducto);
 
         btnGuardarProducto.setText("Guardar");
+        btnGuardarProducto.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnGuardarProductoActionPerformed(evt);
+            }
+        });
 
         btnBuscarProducto.setText("Buscar");
 
@@ -1109,6 +1121,51 @@ public class JfrmRegistro extends javax.swing.JFrame {
     private void txtTelefonoContactoProveedorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtTelefonoContactoProveedorActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_txtTelefonoContactoProveedorActionPerformed
+
+    private void btnGuardarProductoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarProductoActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_btnGuardarProductoActionPerformed
+
+    private void btnGuardarClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarClienteActionPerformed
+        try{
+            if( txtAliasCliente.getText().isEmpty() || txtapellidoCliente.getText().isEmpty() || txtDireccionCliente.getText().isEmpty() || txtTelefonoCliente.getText().isEmpty() || txtMovilCliente.getText().isEmpty() || 
+                txtemailCliente.getText().isEmpty() || txtObservacionCliente.getText().isEmpty() || 
+                    txtPoblacionCliente.getText().isEmpty() || ((JTextField) jdcFechaNacimientoCliente.getDateEditor().getUiComponent()).getText().isEmpty() || cbMateria.getSelectedItem().equals("Seleccione una materia")){
+                JOptionPane.showMessageDialog(null, "Ingrese los campos");
+            }else{
+                int id_estudiante= Integer.parseInt(txtId_estudiante.getText());
+                String nombre_Estudiante= txtNombre_Estudiante.getText();
+                String email_Estudiante= txtEmail.getText();
+                String semestre= txtSemestre.getText();
+                String fechaNacimiento = ((JTextField) jdFechaNacimiento.getDateEditor().getUiComponent()).getText();
+                String captura = cbMateria.getSelectedItem().toString();
+                int id = 0,idprofesor= 0;
+                
+                id = estudiante.solicitudObtenerID(captura);
+                if(validarCorreo(email_Estudiante)){
+                    if(estudiante.SolicitudGuardar(id_estudiante, nombre_Estudiante, fechaNacimiento, email_Estudiante, semestre,id)){
+                    idprofesor=estudiante.SolicitudDestallesBuscar(id);
+                    JOptionPane.showMessageDialog(this, "Guardado exitosamente");
+                     listar();
+                     Limpiar();
+                     btnBuscar.setEnabled(true);
+                     btnEliminar.setEnabled(true);
+                     Modificar.setEnabled(true);
+                    estudiante.SolicitudGuardarDetalle(id_estudiante, id, idprofesor);
+             }else{
+                 JOptionPane.showMessageDialog(this, "Error al guardar");
+                 Limpiar();
+             }
+                }else{
+                    JOptionPane.showMessageDialog(null, "Correo invalido ingreselo de esta manera: 'Programador@gmail.com'");
+                }
+                
+            }
+            
+        }catch(Exception e){
+          System.out.println(e);  
+        }
+    }//GEN-LAST:event_btnGuardarClienteActionPerformed
 
     /**
      * @param args the command line arguments
