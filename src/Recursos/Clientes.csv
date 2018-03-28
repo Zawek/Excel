@@ -1,0 +1,123 @@
+ID;Alias;Apellidos;Nombre;Dirección;Población;Teléfono;Móvil;Email;Observaciones;Sexo;Fecha Nacimiento;Estado Civil;Hijos;Desempleado;Profesión;Nivel académico;Peso Kg;Altura;Cabello;Ojos;Fumador;Salud
+1;Africa;AROCAS PASADAS;ESTEFANIA;PADRÓ , 109;Zaragoza;938205580;546212121;africa@altecom.es;;Mujer;20/03/64;Otros;1;FALSO;Administrativo/a;Bachillerato;73;1,62;Castaño;Marrones;VERDADERO;Buena
+2;Agata;VISO GILABERT;QUERALT;CASA CORDELLAS , ;Barcelona;936545115;625215452;agata@hotmail.com;;Mujer;13/12/65;Otros;0;VERDADERO;Delineante;EGB;98;1,55;Negro;Marrones;FALSO;Regular
+3;Aguador;AYALA FERRERAS;JOAN;DOCTOR FLEMING , 11;Zaragoza;938202768;649212123;;;Hombre;20/07/69;Otros;0;FALSO;;Diplomado/a;61;1,6;Negro;Otro;VERDADERO;Buena
+4;Albatros;BAEZ TEJADO;JOAN;BERTRAND I SERRA , 11, 3R.;Zaragoza;938727844;;albatros@wandoo.es;;Hombre;23/07/65;Separado/a;1;FALSO;Contable;Bachillerato;70;1,8;Otros;Marrones;FALSO;Buena
+5;Albert;BASTARDES SOTO;MARC;CARRIÓ , 12, 5È A;Tarragona;938350521;;albert@intercom.es;;Hombre;16/10/64;Soltero/a;3;FALSO;Dependiente/a;Elementales;91;1,81;Negro;Azules;FALSO;Regular
+6;Alien;ANGUERA VILAFRANCA;JOSEP;PIRINEUS , 10;Valencia;938755645;;alien@intercom.es;;Hombre;16/11/58;Casado/a;1;FALSO;Estudiante;FP;53;1,57;Negro;Verdes;FALSO;Regular
+7;amores;PASCUAL ALOY;ESTHER;JACINT VERDAGUER , 43;Girona;936520547;;amores@hotmail.com;;Mujer;20/03/67;Divorciado/a;0;FALSO;;Diplomado/a;60;1,57;Calvo;Otro;FALSO;Buena
+8;Anabel;VALLÉS GIRVENT;LAURA;NOU , 9, 2N.;Tarragona;936565656;645121212;anabel@altecom.es;;Mujer;17/09/66;Casado/a;1;VERDADERO;Conductor/a;EGB;70;1,72;Pelirrojo;Verdes;VERDADERO;Regular
+9;Antiga;RAYA GARCIA;RAQUEL;JACINT VERDAGUER , 52, 3R, 1A.;Barcelona;936752156;;antiga@minorisa.es;;Mujer;10/10/67;Casado/a;1;FALSO;Oficial;FP;65;1,81;Rubio;Azules;FALSO;Regular
+10;ballador;ANDREU CRUZ;JOAN;JOAN MIRÓ , 10;Tarragona;938300025;648221111;ballador@hotmail.com;;Hombre;29/05/60;Otros;1;VERDADERO;Recepcionista;EGB;99;1,62;Castaño;Otro;VERDADERO;Buena
+11;balladora;BARALDÉS COMAS;MARIA ISABEL;JAUME GALOBART , 12;Lleida;938385567;658444412;balladora@altecom.es;;Mujer;11/03/68;Divorciado/a;0;VERDADERO;Diseñador/a;Elementales;87;1,56;Otros;Otro;FALSO;Buena
+12;Barbilla;BERENGUERAS CULLERÉS;ADRIÀ;PINTOR SERT , 12, 1R., 1A.;Valencia;937809812;654899994;barbilla@hotmail.com;;Hombre;23/09/64;Soltero/a;0;VERDADERO;Comercial;Elementales;92;1,6;Calvo;Marrones;VERDADERO;Regular
+13;Besugo;LÓPEZ DE PABLO GARCIA UCEDA;GERARD;BELLAVISTA , 30;Zaragoza;936520741;;besugo@minorisa.es;;Hombre;13/01/66;Divorciado/a;0;FALSO;Comercial;EGB;66;1,87;Negro;Otro;FALSO;Buena
+14;Bogart;ARNAU MORENO;ELIOT;MONTURIOL , 10, 1R.;Girona;938202456;;bogart@terra.es;;Hombre;02/09/57;Soltero/a;2;FALSO;Asesor/a fiscal;Elementales;53;1,82;Negro;Negros;FALSO;Buena
+15;Bond;RAYA GAVILAN;JORDI;JACINT VERDAGUER , 52, 2N., 4A.;Lleida;938754554;;bond@terra.es;;Hombre;18/07/69;Casado/a;1;FALSO;Arquitecto/a;Licenciado/a;101;1,6;Castaño;Otro;FALSO;Regular
+16;Borreguero;ZAMBUDIO FIGULS;LLUÍS;CASA NOVA , ;Lleida;936875544;625411320;;;Hombre;30/01/69;Soltero/a;1;VERDADERO;;EGB;104;1,67;Rubio;Verdes;FALSO;Regular
+17;Cabeza larga;BIDAULT CULLERÉS;LAURA;DE LA CAÇA , 12, 1R., C;Valencia;935880712;690522200;cabeza larga@cataloniamail.com;;Mujer;02/04/67;Casado/a;;VERDADERO;Contable;Licenciado/a;74;1,87;Pelirrojo;Negros;VERDADERO;Buena
+18;Caga-novias;BIOSCA FONTANET;JORDI;PINTOR SERT , 12, 2N., 1A.;Zaragoza;936875255;647821111;;;Hombre;03/09/58;Otros;3;FALSO;Camarero/a;EGB;107;1,75;Calvo;Azules;FALSO;Buena
+19;Calandria;ZAFRA FIGULS;DOUNYA;CASA SARA , ;Tarragona;936542775;;;;Mujer;31/05/66;Separado/a;1;VERDADERO;;EGB;107;1,73;Otros;Marrones;VERDADERO;Regular
+20;Cangur;ALEU ICART;JULIO;ARTÈS , 1, 1R, 1A.;Barcelona;938773545;;cangur@intercom.es;;Hombre;21/09/67;Otros;0;VERDADERO;Recepcionista;Elementales;79;1,86;Castaño;Azules;FALSO;Excelente
+21;Cantinflas;BADIA TORNÉ;ANDREU;GENERAL PRIM , 11, 2N.;Valencia;938200022;;;;Hombre;23/02/63;Separado/a;1;FALSO;Recepcionista;Diplomado/a;106;1,79;Rubio;Verdes;FALSO;Regular
+22;Canto;MORALES GESE;RAMON;CAU DE LA GUINEU , 4;Tarragona;936512545;;;;Hombre;26/01/58;Casado/a;;FALSO;Abogado/a;EGB;70;1,81;Calvo;Verdes;FALSO;Buena
+23;Caparranas;BLANCO FONTANET;DAVID-JESE;JOAN SANMARTÍ , 12, 2N., 2A.;Lleida;937785655;632548744;caparranas@altecom.es;;Hombre;23/09/60;Otros;1;FALSO;;Elementales;61;1,57;Negro;Azules;FALSO;Buena
+24;Cara corta;ALVAREZ FERNÁNDEZ;ARAN;PROL. PADRÓ , 1, 3R. 1A.;Madrid;938300385;632986321;;;Hombre;27/09/64;Soltero/a;2;FALSO;Taxista;Elementales;85;1,64;Castaño;Marrones;VERDADERO;Buena
+25;cariñosa;GARCIA ALMOGUERA;GEMMA;SALLENT , 22, 2N.;Barcelona;936520471;647111021;;;Mujer;22/03/62;Soltero/a;;FALSO;;Bachillerato;75;1,69;Pelirrojo;Azules;FALSO;Regular
+26;Carretero;LIBORI FIGUERAS;IVAN;JOAN MIRÓ , 3;Girona;936012445;625481111;carretero@intercom.es;;Hombre;23/07/65;Divorciado/a;0;FALSO;;EGB;88;1,56;Otros;Otro;VERDADERO;Buena
+27;Cela;BIDAULT PUEYO;DAVID;LLUÍS CASTELLS , 12, 2N.;Barcelona;934500611;;cela@altecom.es;;Hombre;13/05/69;Divorciado/a;;VERDADERO;Oficial;EGB;102;1,57;Rubio;Otro;FALSO;Regular
+28;Coco;BENITEZ JOSE;XAVIER;SANT VALENTÍ , 12, 1R.;Girona;937885544;;coco@hotmail.com;;Hombre;17/05/66;Divorciado/a;2;FALSO;Asesor/a fiscal;Elementales;69;1,73;Rubio;Azules;VERDADERO;Regular
+29;Conejo;PASCUAL FLORES;MARIO;ÀNGEL GUIMERÀ , 43, 2N;Girona;936512105;;conejo@minorisa.es;;Hombre;02/08/59;Separado/a;1;FALSO;;Elementales;73;1,75;Castaño;Verdes;FALSO;Fatal
+30;Corcel;AYALA TORNÉ;JESUS;JAUME GALOBART , 11;Girona;938202200;;corcel@altecom.es;;Hombre;04/01/59;Separado/a;1;FALSO;Dependiente/a;FP;71;1,82;Negro;Marrones;FALSO;Regular
+31;Cuca;LISTAN FIGUERAS;GEMMA;AVINGUDA TRES , 3, 1R., 1A.;Madrid;939965585;;;;Mujer;29/11/68;Divorciado/a;0;FALSO;Arquitecto/a;FP;77;1,81;Negro;Negros;FALSO;Buena
+32;Curie;RASERO GAVILAN;SILVIA;JACINT VERDAGUER , 52, 2N., 1A.;Barcelona;936541235;648555214;curie@minorisa.es;;Mujer;14/06/64;Soltero/a;1;FALSO;;Elementales;104;1,62;Negro;Marrones;FALSO;Buena
+33;Dalí;ARNALOT PUIG;ALBERT;DIPUTACIÓ , 10;Lleida;938204054;621114452;dalí@wandoo.es;;Hombre;20/06/69;Soltero/a;;FALSO;Profesor/a;Doctor/a;59;1,71;Pelirrojo;Verdes;VERDADERO;Buena
+34;Diamant;MOLINER GARRIDO;MARIA;VIC , 39, 1R., 2A.;Tarragona;936584541;;;;Mujer;21/11/66;Casado/a;1;VERDADERO;Camarero/a;EGB;106;1,73;Pelirrojo;Azules;FALSO;Buena
+35;Dolça;GALOBART GARCIA;BERTA;GERMAN DURAN , 21;Zaragoza;934111475;;dolça@cidet.com;;Mujer;17/05/59;Separado/a;;FALSO;Contable;FP;58;1,71;Pelirrojo;Negros;VERDADERO;Regular
+36;Dorada;LÓPEZ GARRIGASSAIT;BERTA;BELLAVISTA , 30;Zaragoza;935687444;;dorada@intercom.es;;Mujer;11/07/65;Otros;0;FALSO;Administrativo/a;EGB;80;1,9;Otros;Verdes;FALSO;Regular
+37;Elisa;SÁNCHEZ GÓMEZ;MIREIA;NOU , 7, 2N.;Lleida;936658711;645874112;elisa@altecom.es;;Mujer;09/12/62;Soltero/a;;FALSO;Administrativo/a;Elementales;66;1,87;Rubio;Otro;VERDADERO;Excelente
+38;Encarna;ALAVEDRA SUNYÉ;GEMMA;MANELIC , 1;Barcelona;938773941;632125482;encarna@hotmail.com;;Mujer;22/03/66;Casado/a;1;FALSO;Dependiente/a;Elementales;66;1,89;Otros;Negros;FALSO;Regular
+39;entesa;ALIGUÉ BONVEHÍ;MARIA ISABEL;DE LA PESCA , 1, 1R., 1A.;Lleida;938305295;;entesa@altecom.es;;Mujer;22/02/67;Casado/a;0;VERDADERO;Asesor/a fiscal;Bachillerato;68;1,83;Pelirrojo;Otro;FALSO;Buena
+40;Entierravivos;MAS FRANCH;TONI;PIRINEUS , 34;Lleida;936524446;621445221;;;Hombre;24/07/69;Divorciado/a;1;VERDADERO;;EGB;54;1,59;Otros;Marrones;FALSO;Regular
+41;Esportista;ALOY COMPTE;ALEJANDRO;PROL. JACINT VERDAGUER , 1, 2N., 2A.;Madrid;938305551;;;;Hombre;23/08/58;Divorciado/a;;FALSO;;FP;78;1,78;Negro;Otro;FALSO;Regular
+42;ET;ASENSIO VEGA;JOAN MARTÍ;MALLORCA , 11;Zaragoza;938206097;;et@altecom.es;;Hombre;16/12/57;Otros;2;FALSO;Taxista;Bachillerato;91;1,72;Rubio;Negros;VERDADERO;Regular
+43;Europa;BIDAULT PÉREZ;INGRID;SANT BENET , 12, 2N.;Lleida;934500644;;;;Mujer;20/03/67;Casado/a;0;FALSO;;Licenciado/a;53;1,89;Castaño;Marrones;FALSO;Buena
+44;expert;ALOY CODINACHS;OLIVER;PROL. PADRÓ , 1, 2N., 2A.;Lleida;938305594;;;;Hombre;13/04/59;Otros;1;FALSO;Representante;Licenciado/a;79;1,66;Castaño;Negros;VERDADERO;Fatal
+45;experta;ALTIMIRAS ARMENTEROS;SANDRA;ARTÈS , 1, 2N., 2A.;Barcelona;938300422;;experta@wandoo.es;;Mujer;23/01/60;Separado/a;1;FALSO;Camarero/a;EGB;110;1,6;Calvo;Verdes;FALSO;Fatal
+46;F50;BELMONTE SÁNCHEZ;JORDI;JOAN XXIII , 12, 1R, 2A.;Madrid;938350511;621455662;f5@wandoo.es;;Hombre;16/07/66;Otros;1;FALSO;Enfermero/a;Diplomado/a;105;1,74;Castaño;Azules;FALSO;Regular
+47;Faja Ancha;BAJONA GARCIA;MARC;BERTRAND I SERRA , 11, 3R.;Zaragoza;938727589;;;;Hombre;25/02/68;Otros;2;FALSO;;Elementales;60;1,7;Rubio;Verdes;FALSO;Buena
+48;Fara;AGUILAR RODRIGUEZ;JORDINA;LA SARDANA , 1;Barcelona;938208488;;;;Mujer;17/08/62;Casado/a;;FALSO;Contable;Bachillerato;87;1,59;Calvo;Marrones;FALSO;Buena
+49;Fina;BARRIGA SOTO;MARIA JOSÉ;GALILEU , 12;Tarragona;938320587;;fina@hotmail.com;;Mujer;16/07/61;Otros;2;FALSO;;Elementales;70;1,87;Otros;Negros;VERDADERO;Regular
+50;Fuego;AVILA MASJUAN;RAQUEL;SANT VALENTÍ , 11;Girona;938203095;658954422;fuego@altecom.es;;Mujer;23/01/64;Separado/a;0;FALSO;Comercial;Elementales;70;1,78;Negro;Otro;FALSO;Regular
+51;Galgo;PARRAMON FLORES;ENRIC;JOAN XXIII , 43;Barcelona;934555455;;;;Hombre;29/08/63;Otros;0;FALSO;Dependiente/a;EGB;78;1,86;Castaño;Otro;VERDADERO;Regular
+52;Garota;AGUILAR RAMOS;MARTA;DE LA PAU , 1;Tarragona;938208502;;garota@hotmail.com;;Mujer;19/02/61;Separado/a;2;FALSO;Recepcionista;EGB;62;1,65;Otros;Otro;FALSO;Buena
+53;gata;AYALA ALSINA;CARLA;SANT ANTONI MARIA CLARET , 11;Zaragoza;938205245;;;;Mujer;20/04/59;Casado/a;;FALSO;Administrativo/a;EGB;103;1,73;Otros;Verdes;VERDADERO;Buena
+54;Gateta;ALVAREZ TROYANO;MARIA NOELIA;AVINGUDA TRES , 1, 3R., 1A.;Tarragona;938300374;;gateta@cataloniamail.com;;Mujer;20/10/64;Divorciado/a;0;FALSO;Enfermero/a;Bachillerato;66;1,56;Rubio;Azules;FALSO;Buena
+55;Gioconda;ALINS GONZÁLEZ;CRISTINA;PROL. PADRÓ , 1, 2N., 1A.;Barcelona;938305576;652148555;;;Mujer;27/03/60;Soltero/a;1;FALSO;;Bachillerato;102;1,67;Negro;Azules;FALSO;Regular
+56;Groucho;ACUÑA TORT;CARLOS;SANT JOAN , 0, C, 3R. A;Valencia;938208614;;groucho@intercom.es;;Hombre;09/09/60;Divorciado/a;1;FALSO;;Licenciado/a;79;1,82;Rubio;Negros;FALSO;Buena
+57;Harpo;ALGUÉ TRANCHO;DAVID;PROL. JACINT VERDAGUER , 1, 1R., 1A.;Madrid;938770077;;harpo@hotmail.com;;Hombre;03/11/66;Soltero/a;1;VERDADERO;Funcionario/a;Diplomado/a;82;1,7;Castaño;Marrones;FALSO;Regular
+58;Hispa;BADIA CASTILLO;CRISTIAN;JOAN XXIII , 11, 1R., 1A.;Girona;938200713;;hispa@cataloniamail.com;;Hombre;23/02/60;Soltero/a;1;FALSO;Oficial;EGB;103;1,7;Rubio;Marrones;VERDADERO;Regular
+59;Hojalatero;BENITEZ FLORES;JULIO ALBERTO;LLUÍS CASTELLS , 12, 1R.;Barcelona;938270685;625477881;;;Hombre;20/10/62;Soltero/a;;FALSO;Representante;EGB;54;1,65;Negro;Negros;FALSO;Fatal
+60;Huevo;TORRUELLA GARCIA;SERGI;PADRÓ , 83;Zaragoza;936021048;;huevo@terra.es;;Hombre;26/05/69;Casado/a;;FALSO;Estudiante;Diplomado/a;66;1,79;Negro;Verdes;VERDADERO;Buena
+61;James Dean;ALBERICH RODRIGUEZ;ALEIX;SANT ISCLE , 1;Tarragona;938773933;648555552;james dean@intercom.es;;Hombre;12/05/66;Divorciado/a;2;FALSO;;Doctor/a;64;1,7;Calvo;Negros;FALSO;Buena
+62;Jéssica;ARMENCOT PUIG;VERÒNICA;MONTSERRAT , 10;Zaragoza;938206766;690254111;jéssica@hotmail.com;;Mujer;30/08/60;Soltero/a;1;FALSO;Camarero/a;EGB;104;1,84;Calvo;Azules;VERDADERO;Buena
+63;Julia;ALIGUÉ RIVERA;MARIONA;PROL. JACINT VERDAGUER , 1, 1R., 2A.;Zaragoza;938305223;;;;Mujer;02/06/62;Soltero/a;;FALSO;Oficial;EGB;48;1,81;Calvo;Azules;FALSO;Regular
+64;Julio;BARRIGA RIU;MARC;TRABUCAIRES , 12;Zaragoza;938325565;;;;Hombre;02/08/59;Divorciado/a;1;FALSO;Comercial;Bachillerato;89;1,81;Rubio;Negros;FALSO;Buena
+65;Lali;PORTELLA GISPETS;GEMMA;JACINT VERDAGUER , 49, 4T., 2A.;Girona;936565448;632587441;;;Mujer;06/09/66;Soltero/a;1;VERDADERO;Diseñador/a;EGB;98;1,56;Otros;Marrones;FALSO;Buena
+66;libero;AGUILERA BAENA;RICARD;MANELIC , 1;Madrid;938208360;;;;Hombre;20/02/63;Otros;;FALSO;;Diplomado/a;82;1,74;Negro;Verdes;FALSO;Fatal
+67;Llus;RODRIGUEZ GARCÍA;JUAN;VERGE DE FÀTIMA , 6, BX., 2A.;Madrid;936549889;602412052;llus@hotmail.com;;Hombre;20/07/62;Otros;;FALSO;Dependiente/a;EGB;94;1,6;Calvo;Otro;VERDADERO;Buena
+68;Loli;AGUILAR SUNYÉ;MARTA;SANT JOAN , 0, D, 3R. A;Tarragona;938208677;;;;Mujer;27/11/60;Casado/a;;FALSO;;Elementales;91;1,73;Calvo;Verdes;FALSO;Buena
+69;Madonna;BARRIGA TARDÀ;NATÀLIA;GALILEU , 12;Madrid;938325558;;madonna@wandoo.es;;Mujer;18/11/59;Otros;1;FALSO;Delineante;Bachillerato;95;1,86;Calvo;Otro;VERDADERO;Regular
+70;Mata Hari;BARCONS LARA;MARTA;ESPORTS , 12;Barcelona;938360281;;mata hari@intercom.es;;Mujer;25/10/68;Otros;0;FALSO;Comercial;EGB;110;1,88;Otros;Otro;FALSO;Regular
+71;Melanie;AGUILERA TATJÉ;LAURA;JOSEP BOIXADERAS , 1;Valencia;938208380;625411014;melanie@minorisa.es;;Mujer;10/02/63;Otros;1;FALSO;;EGB;96;1,89;Castaño;Azules;FALSO;Regular
+72;Melquíades;ALEU PRAT;JOAN;CERVANTES , 1, 1R.;Girona;938770878;;melquíades@hotmail.com;;Hombre;02/02/69;Otros;2;FALSO;;EGB;93;1,83;Calvo;Azules;FALSO;Buena
+73;Merche;VALLÉS GIRVENT;ALEXIA;CERVANTES , 9, 1R.;Valencia;936874511;654822414;merche@terra.es;;Mujer;16/03/64;Soltero/a;0;VERDADERO;Contable;Diplomado/a;53;1,67;Calvo;Azules;FALSO;Regular
+74;Midas;MOLINA GARRIDO;FERRAN;JOAN XXIII , 39;Girona;936548745;698774444;midas@cataloniamail.com;;Hombre;21/06/64;Soltero/a;0;VERDADERO;Dependiente/a;EGB;59;1,81;Calvo;Otro;VERDADERO;Excelente
+75;Mona lisa;ARISSA HERMOSO;CRISTINA;DOCTOR BARNARD , 10;Tarragona;938755512;602111254;mona lisa@minorisa.es;;Mujer;19/11/57;Soltero/a;;FALSO;;Bachillerato;75;1,74;Castaño;Azules;FALSO;Buena
+76;Moro;BARALDÉS PARDO;JOSÉ ANTONIO;ESPORTS , 12;Barcelona;938722096;;moro@minorisa.es;;Hombre;30/11/66;Separado/a;0;FALSO;Asesor/a fiscal;Elementales;97;1,59;Calvo;Otro;VERDADERO;Regular
+77;Mozart;SUAREZ GARZÓN;JORDI;DE LA PAU , 8;Valencia;934512544;;mozart@wandoo.es;;Hombre;03/09/60;Soltero/a;1;FALSO;Taxista;EGB;108;1,85;Castaño;Negros;FALSO;Regular
+78;Nadadora;ARPA MORENO;BEGONYA;SANT VALENTÍ , 11;Lleida;938205011;;;;Mujer;28/10/64;Otros;1;FALSO;Dependiente/a;Elementales;106;1,8;Castaño;Verdes;VERDADERO;Buena
+79;Nalga;ALOY FARRANDO;INGRID;PROL. PADRÓ , 1, 2N., 2A.;Barcelona;938300864;;;;Mujer;14/04/59;Separado/a;1;FALSO;Representante;EGB;93;1,82;Pelirrojo;Otro;FALSO;Regular
+80;Napoleon;LUQUE GARRIGASAIT;MIQUEL;VIC , 30 (TORROELLA);Lleida;933256844;625401445;napoleon@cidet.com;;Hombre;20/09/67;Divorciado/a;0;FALSO;Taxista;Licenciado/a;93;1,64;Rubio;Azules;FALSO;Buena
+81;Orondo;RIDÓ GÓMEZ;AGUSTÍ;SANT ISCLE , 6;Tarragona;936528779;;orondo@altecom.es;;Hombre;24/05/66;Casado/a;2;FALSO;Contable;FP;79;1,59;Pelirrojo;Negros;FALSO;Regular
+82;Papagayo;SANTAMARIA FLOTATS;ANTONI;JAUME BALMES , 70, 3R, 1A.;Girona;931021886;;papagayo@altecom.es;;Hombre;31/05/67;Soltero/a;;VERDADERO;Profesor/a;EGB;89;1,84;Otros;Otro;FALSO;Buena
+83;Paseante;HERMS GÓMEZ;JOAN;GERMAN DURAN , 27, 3R., 1A.;Zaragoza;936201457;658955442;;;Hombre;21/10/58;Divorciado/a;1;FALSO;Camarero/a;EGB;81;1,71;Pelirrojo;Otro;VERDADERO;Buena
+84;Pasión;ARTIGAS MATURANO;MÒNICA;SANT JOAN , 11;Lleida;938207515;;pasión@altecom.es;;Mujer;03/10/59;Separado/a;3;FALSO;Funcionario/a;EGB;100;1,86;Otros;Otro;FALSO;Regular
+85;Pato;AGUILAR MASANA;GERARD;PUIG , 1;Madrid;938208558;;;;Hombre;23/05/61;Casado/a;2;FALSO;Arquitecto/a;Elementales;83;1,84;Rubio;Marrones;VERDADERO;Fatal
+86;Pelusa;ALTIMIRAS SERAROLS;GEMMA;PROL. JACINT VERDAGUER , 1, 2N., 2A.;Valencia;938300496;;pelusa@hotmail.com;;Mujer;16/01/61;Casado/a;4;FALSO;Funcionario/a;Bachillerato;89;1,76;Calvo;Azules;FALSO;Buena
+87;Perla;TORRESCASANA GARCIA;MARIA;RAMON I CAJAL , 81, 2N.;Lleida;930120545;625458445;perla@cataloniamail.com;;Mujer;29/10/57;Divorciado/a;;FALSO;Asesor/a fiscal;FP;63;1,77;Pelirrojo;Negros;VERDADERO;Excelente
+88;Picasso;ARIZA PUIGBÓ;ORIOL;MORAGUES , 10;Girona;938207095;;;Ex-presidiario;Hombre;05/12/67;Casado/a;1;VERDADERO;Dependiente/a;Elementales;79;1,7;Negro;Negros;FALSO;Regular
+89;poma;ALVAREZ ARMENTEROS;VIRGINIA;PROL. PADRÓ , 1, 3R., 2A.;Barcelona;938300214;;;;Mujer;30/10/65;Separado/a;0;FALSO;Conductor/a;Bachillerato;66;1,82;Negro;Marrones;FALSO;Regular
+90;Psicosis;BARALDÉS TARRAGÓ;DAMIÀ;FRANCESC DE VITÒRIA , 11, 4T 2A;Tarragona;938727244;625410101;psicosis@intercom.es;;Hombre;19/05/69;Divorciado/a;;VERDADERO;Camarero/a;EGB;101;1,64;Castaño;Negros;FALSO;Buena
+91;Quince centimos;GARCIA GARCÍA;VALENTÍ;ALBÉNIZ , 22, 2N.;Barcelona;936565874;;;Mucha discreción;Hombre;14/07/64;Separado/a;1;FALSO;Camarero/a;FP;108;1,65;Otros;Azules;FALSO;Regular
+92;Rebeca;AROCA GÓMEZ;AINA;TRES ROURES , 10, 4T 2A;Tarragona;938205782;632514125;rebeca@cataloniamail.com;;Mujer;29/01/64;Separado/a;0;FALSO;;FP;95;1,75;Pelirrojo;Otro;VERDADERO;Buena
+93;Rebelde;ALONSO RODRIGUEZ;DAVID;PROL. PADRÓ , 1, 2N., 1A.;Girona;938305551;;rebelde@intercom.es;;Hombre;23/03/58;Divorciado/a;2;FALSO;;Licenciado/a;83;1,73;Calvo;Verdes;FALSO;Buena
+94;Recio;CANO GÓMEZ;GERARD;ALBÉNIZ , 13, 2N., 1A.;Zaragoza;936577225;;;;Hombre;04/11/66;Otros;1;FALSO;Asesor/a fiscal;Doctor/a;69;1,72;Otros;Verdes;VERDADERO;Buena
+95;Recital;ALCAIDE MOLINA;MARTA;FONT DEL GAT , 1;Lleida;938773647;632544145;;Persona Pública;Mujer;17/07/67;Separado/a;;FALSO;Camarero/a;Elementales;73;1,72;Castaño;Marrones;FALSO;Regular
+96;Rene;AGUILERA PRAT;MIREIA;MONTCAU , 1;Lleida;938208054;;rene@intercom.es;;Mujer;16/02/66;Soltero/a;1;VERDADERO;;Elementales;90;1,57;Negro;Marrones;FALSO;Buena
+97;Repicó;ALAPONT ICART;ELOI;MONTURIOL , 1;Lleida;938208054;658789875;;;Hombre;09/03/66;Soltero/a;1;VERDADERO;;EGB;58;1,61;Rubio;Marrones;FALSO;Buena
+98;Rica;RIVERO FLORIDO;ANNA;VILATORRADA , 6;Valencia;930712563;654112144;rica@terra.es;La trae su madre;Mujer;23/03/69;Casado/a;0;FALSO;Comercial;Diplomado/a;102;1,84;Otros;Marrones;FALSO;Fatal
+99;Rockera;AVILA MASJUAN;ALBA;JAUME GALOBART , 11;Valencia;938204078;;rockera@terra.es;;Mujer;22/09/57;Otros;2;FALSO;Camarero/a;EGB;76;1,57;Otros;Negros;VERDADERO;Regular
+100;Roma;GRANADOS ANDRÉS;SANDRA;SANT GENÍS , 25;Barcelona;936871045;;;Mucha discreción;Mujer;15/11/61;Divorciado/a;1;FALSO;Camarero/a;Bachillerato;51;1,61;Calvo;Marrones;FALSO;Regular
+101;Roman;FERRER GASSET;ERIC;VERGE DE FÀTIMA , 2, 3R., 1A.;Valencia;938745211;;roman@wandoo.es;;Hombre;15/04/60;Otros;0;FALSO;Recepcionista;EGB;62;1,68;Castaño;Negros;VERDADERO;Buena
+102;Romario;AMIGO MODREGO;LLUÍS;JAUME I , 10;Zaragoza;938300065;654401401;;;Hombre;18/11/65;Divorciado/a;1;FALSO;Comercial;EGB;98;1,75;Rubio;Azules;FALSO;Buena
+103;Romeo;ABDIN TATJÈ;CRISTIAN;SANT JOAN , 0, C, 1R., B;Girona;938208674;;romeo@intercom.es;;Hombre;08/12/59;Casado/a;0;FALSO;Asesor/a fiscal;Elementales;76;1,63;Calvo;Marrones;VERDADERO;Excelente
+104;Romesco;CANELLAS GOMEZ;GUILLEM;JACINT VERDAGUER , 13;Zaragoza;930214054;;;;Hombre;30/03/67;Separado/a;0;FALSO;Administrativo/a;Elementales;68;1,87;Calvo;Verdes;FALSO;Regular
+105;RONC;HIDALGO ALTIMIRAS;DIMAS;SANT BENET , 28, 2N., 2A.;Barcelona;936521404;602120214;ronc@cataloniamail.com;;Hombre;14/07/64;Otros;0;VERDADERO;;Bachillerato;89;1,61;Rubio;Marrones;FALSO;Buena
+106;Sabrosa;BASTARDAS FRANCH;ANA INÉS;FONERIA , 12;Zaragoza;938350593;;sabrosa@hotmail.com;;Mujer;03/01/62;Casado/a;;FALSO;Abogado/a;FP;96;1,82;Negro;Marrones;FALSO;Regular
+107;Salsa;ABADIAS MASANA;IVET;ALFONS XII , 9, 4T 1A;Zaragoza;939962045;622101451;salsa@cataloniamail.com;;Mujer;22/05/59;Casado/a;;FALSO;Camarero/a;EGB;105;1,55;Castaño;Azules;FALSO;Buena
+108;sandra;AREVALO SANCHEZ;JÚLIA;JAUME I , 10;Valencia;938755603;654874412;;;Mujer;17/09/68;Casado/a;0;FALSO;Recepcionista;FP;99;1,59;Castaño;Marrones;VERDADERO;Regular
+109;Sha;ALINS MULET;DANIEL;DE LA PESCA , 1, 1R., 2A.;Barcelona;938305524;610025001;;Mucha discreción;Hombre;02/03/58;Casado/a;2;FALSO;Conductor/a;Elementales;86;1,6;Rubio;Verdes;FALSO;Regular
+110;Sincer;GARCIA GONZÁLEZ;ABEL;PIRINEUS , 22;Valencia;936571974;;sincer@altecom.es;;Hombre;30/07/67;Soltero/a;0;VERDADERO;Camarero/a;Licenciado/a;83;1,89;Pelirrojo;Azules;VERDADERO;Regular
+111;Sincera;ALVAREZ PARCERISA;IRENE;PROL. JACINT VERDAGUER , 1, 3R., 2A.;Girona;938300036;;sincera@hotmail.com;;Mujer;20/07/65;Divorciado/a;1;VERDADERO;;EGB;98;1,66;Otros;Azules;FALSO;Regular
+112;suau;CASAS ANDRÉS;ADRIÀ;JAUME GALOBART , 14;Madrid;936505455;;suau@hotmail.com;;Hombre;01/09/59;Separado/a;1;FALSO;;Elementales;100;1,84;Castaño;Negros;VERDADERO;Regular
+113;Superman;MORALES GESE;JAIRO;SANT JOAN, EDIFICI D , 3R A;Barcelona;936587454;600541125;superman@altecom.es;;Hombre;15/05/63;Separado/a;0;FALSO;Funcionario/a;Bachillerato;85;1,78;Pelirrojo;Negros;FALSO;Fatal
+114;Superwoman;BARALDÉS MARTORELL;CRISTINA;VIC , 119, 3R., 2A.;Valencia;938725845;;superwoman@wandoo.es;;Mujer;30/10/63;Soltero/a;0;FALSO;Conductor/a;Diplomado/a;101;1,86;Calvo;Azules;FALSO;Excelente
+115;Tablon;AROCA GÓMEZ;DAVID;CARLES BUÏGAS , 10, 1R., 1A.;Barcelona;938205730;;tablon@hotmail.com;Mucha discreción;Hombre;23/10/57;Casado/a;;FALSO;Recepcionista;EGB;58;1,83;Otros;Negros;FALSO;Buena
+116;tendre;RUEDA ALVAREZ;ADRIÀ;JAUME BALMES , 67, 2N.;Madrid;936828258;;tendre@terra.es;;Hombre;25/12/61;Otros;1;FALSO;;Elementales;76;1,71;Pelirrojo;Verdes;FALSO;Buena
+117;Teta;ALVAREZ DOMENECH;LUCIA;PROL. PADRÓ , 1, 3R., 2A.;Valencia;938300045;;teta@intercom.es;;Mujer;13/11/68;Casado/a;0;FALSO;Administrativo/a;Elementales;62;1,58;Otros;Otro;VERDADERO;Regular
+118;Tomasa;BOIX GONZÁLEZ;CARLA;DE LA CAÇA , 12, 2N., C;Tarragona;936521452;624487554;tomasa@hotmail.com;;Mujer;29/05/63;Casado/a;0;FALSO;;Licenciado/a;49;1,55;Castaño;Marrones;FALSO;Buena
+119;Tranquil;BARALDÉS MONRÓS;ADRIÀ;VIC , 119, 2N., 1A.;Valencia;938725885;;;;Hombre;12/01/68;Divorciado/a;0;VERDADERO;Funcionario/a;FP;62;1,58;Calvo;Marrones;VERDADERO;Regular
+120;Tremenda;AGUILERA MERINO;MARTA;MORAGUES , 1;Valencia;938208303;621145584;tremenda@altecom.es;;Mujer;27/09/64;Separado/a;1;FALSO;Comercial;Bachillerato;75;1,77;Pelirrojo;Otro;FALSO;Regular
+121;Tripa;BAREA D'HAENE;MARC;TRABUCAIRES , 12;Valencia;938360213;;tripa@intercom.es;;Hombre;07/05/58;Casado/a;;FALSO;Administrativo/a;EGB;74;1,58;Pelirrojo;Marrones;FALSO;Fatal
+122;Verruga;BARROSO D'HAENE;ALEX;FONERIA , 12;Valencia;938320537;;verruga@hotmail.com;;Hombre;13/09/61;Divorciado/a;;FALSO;Administrativo/a;Elementales;76;1,65;Calvo;Verdes;FALSO;Buena

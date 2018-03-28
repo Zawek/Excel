@@ -1129,7 +1129,7 @@ public class JfrmRegistro extends javax.swing.JFrame {
     private void btnGuardarClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarClienteActionPerformed
         try{
             if( txtAliasCliente.getText().isEmpty() || txtapellidoCliente.getText().isEmpty() || txtDireccionCliente.getText().isEmpty() || txtTelefonoCliente.getText().isEmpty() || txtMovilCliente.getText().isEmpty() || 
-                txtemailCliente.getText().isEmpty() || txtObservacionCliente.getText().isEmpty() || 
+                txtemailCliente.getText().isEmpty() || txtObservacionCliente.getText().isEmpty() ||
                     txtPoblacionCliente.getText().isEmpty() || ((JTextField) jdcFechaNacimientoCliente.getDateEditor().getUiComponent()).getText().isEmpty() || cbMateria.getSelectedItem().equals("Seleccione una materia")){
                 JOptionPane.showMessageDialog(null, "Ingrese los campos");
             }else{
